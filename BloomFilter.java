@@ -1,5 +1,3 @@
-package com.burstly.flightpath.actions;
-
 import java.nio.charset.Charset;
 import java.util.BitSet;
 
