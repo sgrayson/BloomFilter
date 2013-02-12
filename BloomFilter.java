@@ -104,6 +104,10 @@ public class BloomFilter<E> {
 	public int count() {
 		return this.numAddedElems;
 	}
+
+	public void testing() {
+		System.out.println("testing");
+	}
 }
 
 
