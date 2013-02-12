@@ -106,7 +106,7 @@ public class BloomFilter<E> {
 	}
 
 	public void testing() {
-		System.out.println("testing");
+		System.out.println("test test test");
 	}
 }
 
